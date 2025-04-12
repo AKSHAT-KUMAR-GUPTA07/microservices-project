@@ -34,3 +34,4 @@ build/
 
 ### ignore  files ###
 application.properties
+docker-compose.yml
