@@ -35,3 +35,4 @@ build/
 ### ignore files ###
 application.properties
 /volume-data/
+docker-compose.yml
