@@ -1,1 +1,1 @@
-E-commerce microservices 
+E-commerce microservices project
