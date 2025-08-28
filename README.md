@@ -1,2 +1,1 @@
-E-commerce microservices project
-(to check if my commits are signed)
+E-commerce microservices project (Verified)
